@@ -44,3 +44,6 @@ def run_test_harness():
     print('> %.3f' % (acc * 100.0))
     
 run_test_harness()    
+
+model = vgg16()
+model.save("model.h5")
