@@ -22,3 +22,6 @@ This dataset contains 4242 images of flowers divided into 5 classes, namely - Da
 
 Optimizer: SGD<br/>
 Loss: Categorical Crossentropy
+
+## Accuracy 
+Almost 90%, but trying to improve more.
